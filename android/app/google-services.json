@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1034709697027",
+    "firebase_url": "https://habit-garden.firebaseio.com",
+    "project_id": "habit-garden",
+    "storage_bucket": "habit-garden.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034709697027:android:8136001c7238685b228436",
+        "android_client_info": {
+          "package_name": "com.runtimeterror.habit_garden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034709697027-5h67lcpscd4iuu2offaejej2ce45agei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.runtimeterror.habit_garden",
+            "certificate_hash": "a8f891e40b2a9b00cbcf3dd0fcc55e7525ae9c01"
+          }
+        },
+        {
+          "client_id": "1034709697027-o4fn0o86g562i00qrtrmeg17duqd12pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsjH3sKYfiGu8hUwj1OXzeKbG7C5UsUJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034709697027-o4fn0o86g562i00qrtrmeg17duqd12pi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
